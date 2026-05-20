@@ -1,0 +1,49 @@
+model_year,indicator,source_year,file,valid,missing_reason
+2010,pop_density,2010,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I1_1_population_density_2010.tif,30159,
+2010,nightlight,2012,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I2_1_nightlight_intensity_2012.tif,30160,uses 2012 VIIRS as initial-period proxy
+2010,cropland_ratio,2010,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I1_3_cropland_ratio_2010.tif,30160,
+2010,ndvi,2010,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_1_NDVI_2010.tif,30159,
+2010,forest_ratio,2010,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_2_forest_cover_2010.tif,30160,
+2010,npp,2010,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_3_NPP_2010.tif,30115,
+2010,slope,static,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I5_1_slope_static.tif,30158,
+2010,climate_water_stress,2010,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I6_1_climate_water_deficit_2010.tif,30160,
+2010,cold_stress,2010,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I6_2_cold_stress_2010.tif,30160,
+2010,dist_port,static,/Users/hbox/Documents/GitHub/毕业/output/data/border_ports_both_sides.gpkg,30160,
+2010,dist_city,quasi-static,/Users/hbox/Documents/GitHub/毕业/output/data/accessibility/city_points_clean.gpkg,30160,quasi-static accessibility indicator
+2010,dist_major_road,quasi-static,/Users/hbox/Documents/GitHub/毕业/output/data/accessibility/major_roads_clean.gpkg,30160,quasi-static accessibility indicator
+2015,pop_density,2015,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I1_1_population_density_2015.tif,30159,
+2015,nightlight,2015,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I2_1_nightlight_intensity_2015.tif,30160,
+2015,cropland_ratio,2015,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I1_3_cropland_ratio_2015.tif,30160,
+2015,ndvi,2015,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_1_NDVI_2015.tif,30159,
+2015,forest_ratio,2015,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_2_forest_cover_2015.tif,30160,
+2015,npp,2015,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_3_NPP_2015.tif,30115,
+2015,slope,static,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I5_1_slope_static.tif,30158,
+2015,climate_water_stress,2015,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I6_1_climate_water_deficit_2015.tif,30160,
+2015,cold_stress,2015,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I6_2_cold_stress_2015.tif,30160,
+2015,dist_port,static,/Users/hbox/Documents/GitHub/毕业/output/data/border_ports_both_sides.gpkg,30160,
+2015,dist_city,quasi-static,/Users/hbox/Documents/GitHub/毕业/output/data/accessibility/city_points_clean.gpkg,30160,quasi-static accessibility indicator
+2015,dist_major_road,quasi-static,/Users/hbox/Documents/GitHub/毕业/output/data/accessibility/major_roads_clean.gpkg,30160,quasi-static accessibility indicator
+2020,pop_density,2020,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I1_1_population_density_2020.tif,30159,
+2020,nightlight,2020,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I2_1_nightlight_intensity_2020.tif,30160,
+2020,cropland_ratio,2020,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I1_3_cropland_ratio_2020.tif,30160,
+2020,ndvi,2020,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_1_NDVI_2020.tif,30158,
+2020,forest_ratio,2020,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_2_forest_cover_2020.tif,30160,
+2020,npp,2020,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_3_NPP_2020.tif,30115,
+2020,slope,static,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I5_1_slope_static.tif,30158,
+2020,climate_water_stress,2020,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I6_1_climate_water_deficit_2020.tif,30160,
+2020,cold_stress,2020,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I6_2_cold_stress_2020.tif,30160,
+2020,dist_port,static,/Users/hbox/Documents/GitHub/毕业/output/data/border_ports_both_sides.gpkg,30160,
+2020,dist_city,quasi-static,/Users/hbox/Documents/GitHub/毕业/output/data/accessibility/city_points_clean.gpkg,30160,quasi-static accessibility indicator
+2020,dist_major_road,quasi-static,/Users/hbox/Documents/GitHub/毕业/output/data/accessibility/major_roads_clean.gpkg,30160,quasi-static accessibility indicator
+2024,pop_density,2020,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I1_1_population_density_2020.tif,30159,uses 2020 population baseline
+2024,nightlight,2024,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I2_1_nightlight_intensity_2024.tif,30160,
+2024,cropland_ratio,2024,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I1_3_cropland_ratio_2024.tif,30160,
+2024,ndvi,2024,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_1_NDVI_2024.tif,30159,
+2024,forest_ratio,2024,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_2_forest_cover_2024.tif,30160,
+2024,npp,2024,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I4_3_NPP_2024.tif,30115,
+2024,slope,static,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I5_1_slope_static.tif,30158,
+2024,climate_water_stress,2024,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I6_1_climate_water_deficit_2024.tif,30160,
+2024,cold_stress,2024,/Users/hbox/Documents/GitHub/毕业/output/data/gee_multiyear/I6_2_cold_stress_2024.tif,30160,
+2024,dist_port,static,/Users/hbox/Documents/GitHub/毕业/output/data/border_ports_both_sides.gpkg,30160,
+2024,dist_city,quasi-static,/Users/hbox/Documents/GitHub/毕业/output/data/accessibility/city_points_clean.gpkg,30160,quasi-static accessibility indicator
+2024,dist_major_road,quasi-static,/Users/hbox/Documents/GitHub/毕业/output/data/accessibility/major_roads_clean.gpkg,30160,quasi-static accessibility indicator

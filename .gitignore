@@ -1,0 +1,81 @@
+# macOS and editor noise
+.DS_Store
+**/.DS_Store
+.vscode/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+.venv312/
+
+# Local agent/tool caches
+.claude/
+.agent.md
+.trae/
+
+# GIS binary data files (too large for GitHub)
+*.gpkg
+*.tif
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.tfw
+*.gdbtable
+*.gdbtablx
+*.gdbindexes
+*.atx
+
+# Compressed archives
+*.zip
+
+# GeoJSON (large vector files)
+*.geojson
+
+# GIS sidecar/cache files
+*.aux.xml
+*.ovr
+*.qix
+*.gpkg-shm
+*.gpkg-wal
+
+# Large directories
+arcmap_package/
+qgis_package/
+参考文献/
+毕设文件2025版参考模板/
+workplace/
+
+# Thesis working files (backups, revision scripts, large assets)
+thesis/chapter4_assets/
+thesis/*.docx
+thesis/*.pdf
+thesis/*.py
+thesis/*.json
+thesis/*.txt
+thesis/*.md
+thesis/figures/
+
+# Misc non-essential files
+skills-lock.json
+tb.docx
+论文模板_标题格式已修改.docx
+基于地球观测数据的中俄东北—远东经济走廊SDGs空间评估与可视化分析(1).docx
+1-关于做好2026届本科生毕业论文（设计）工作的通知.docx
+项目结构说明.md
+output/data
+
+# Duplicated or external-transfer packages
+output/package_minimal_repro/
+output/*.zip
+output/doc/*.zip
+
+# Temporary render/conversion outputs
+tmp/
+*.tmp
+~$*

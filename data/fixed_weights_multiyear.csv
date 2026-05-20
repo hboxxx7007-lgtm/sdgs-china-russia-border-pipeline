@@ -1,0 +1,13 @@
+year,weight_scheme,indicator,description,dimension,dimension_weight,entropy,local_weight,weight
+all_years,fixed_global_within_dimension_entropy_equal_dimension,pop_density,D1.1 人口密度,D1 人类活动,0.25,0.8612244902343363,0.4433821447143179,0.11084553617857948
+all_years,fixed_global_within_dimension_entropy_equal_dimension,nightlight,D1.2 夜间灯光强度,D1 人类活动,0.25,0.9633574705157597,0.11707140069536891,0.029267850173842227
+all_years,fixed_global_within_dimension_entropy_equal_dimension,cropland_ratio,D1.3 耕地/农田比例,D1 人类活动,0.25,0.8624250344118761,0.43954645459031316,0.10988661364757829
+all_years,fixed_global_within_dimension_entropy_equal_dimension,dist_port,D2.1 距边境口岸距离,D2 通达性,0.25,0.994993518453397,0.32086245047184364,0.08021561261796091
+all_years,fixed_global_within_dimension_entropy_equal_dimension,dist_city,D2.2 距最近城市/城镇节点距离,D2 通达性,0.25,0.9938672918305971,0.3930416506974807,0.09826041267437018
+all_years,fixed_global_within_dimension_entropy_equal_dimension,dist_major_road,D2.3 距主要道路距离,D2 通达性,0.25,0.9955359879725775,0.2860958988306757,0.07152397470766893
+all_years,fixed_global_within_dimension_entropy_equal_dimension,ndvi,D3.1 NDVI,D3 生态状态,0.25,0.9946204376535888,0.06375456771333875,0.015938641928334687
+all_years,fixed_global_within_dimension_entropy_equal_dimension,forest_ratio,D3.2 林地覆盖率,D3 生态状态,0.25,0.929465732490707,0.8359196240251567,0.20897990600628918
+all_years,fixed_global_within_dimension_entropy_equal_dimension,npp,D3.3 净初级生产力,D3 生态状态,0.25,0.9915345839544616,0.10032580826150446,0.025081452065376115
+all_years,fixed_global_within_dimension_entropy_equal_dimension,slope,D4.1 地形坡度,D4 环境约束,0.25,0.9946005384155625,0.24828795032271134,0.062071987580677834
+all_years,fixed_global_within_dimension_entropy_equal_dimension,climate_water_stress,D4.2 气候水分亏缺,D4 环境约束,0.25,0.9936825870463721,0.29049887457655027,0.07262471864413757
+all_years,fixed_global_within_dimension_entropy_equal_dimension,cold_stress,D4.3 低温冷胁迫,D4 环境约束,0.25,0.9899701019805588,0.4612131751007384,0.1153032937751846

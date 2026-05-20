@@ -1,0 +1,13 @@
+indicator,description,direction,global_min,global_max,clipping
+pop_density,D1.1 人口密度,positive,0.0,566.9259429931635,p01_p99
+nightlight,D1.2 夜间灯光强度,positive,0.035454092696309086,2.3582595753669784,p01_p99
+cropland_ratio,D1.3 耕地/农田比例,positive,0.0,1.0,p01_p99
+dist_port,D2.1 距边境口岸距离,negative,20.14589931921498,1467.705751011506,p01_p99
+dist_city,D2.2 距最近城市/城镇节点距离,negative,9.237443302746682,622.8846194001752,p01_p99
+dist_major_road,D2.3 距主要道路距离,negative,0.8995907000968991,549.8689798831658,p01_p99
+ndvi,D3.1 NDVI,positive,0.2870250111818314,0.8696345114707947,p01_p99
+forest_ratio,D3.2 林地覆盖率,positive,0.0,1.0,p01_p99
+npp,D3.3 净初级生产力,positive,0.14299348264932632,0.7354458379745487,p01_p99
+slope,D4.1 地形坡度,negative,0.09837152063846588,11.179402351379395,p01_p99
+climate_water_stress,D4.2 气候水分亏缺,negative,0.0,667.2495806884766,p01_p99
+cold_stress,D4.3 低温冷胁迫,negative,35.84297664642334,208.8517398071289,p01_p99
