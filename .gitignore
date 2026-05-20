@@ -79,3 +79,9 @@ output/doc/*.zip
 tmp/
 *.tmp
 ~$*
+
+# Large presentation files (>100MB)
+*.pptx
+
+# Font files
+*.otf
