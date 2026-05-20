@@ -34,7 +34,7 @@ __pycache__/
 # Compressed archives
 *.zip
 
-# GeoJSON (large vector files)
+# Large vector files
 *.geojson
 
 # GIS sidecar/cache files
